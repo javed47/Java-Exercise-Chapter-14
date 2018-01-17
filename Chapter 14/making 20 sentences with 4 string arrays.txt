@@ -1,0 +1,22 @@
+main method()
+create string array article with 5 spaces; "the" "a" "one" "some" "any"
+create string array noun with 5 spaces; "boy", "girl", "dog" "town" "car"
+create string array verb with 5 spaces; "jumped", "ran" "walked" "skipped"
+create string array preposition with 5 spaces; "to" "from" "over" "under" "on"
+instanciate a random number object for 5;
+
+//for loop to iterate from 0 to 20 increament 1
+create 4 values of random number
+use this values to select the items of 4 different string arrays
+take the article[random number0] into char array and make the char array 1st index uppercase
+then create the article[random number 0] with constructor using char array
+print concatanated article[random number 0]+noun[random number 2]+verb[random number 3]+preposition[random number 0]+article[random number 1]+noun[random number1] 
+
+static method creating sentence(4 arrays of string)
+instanciate a random number object for 5;
+for loop to iterate from 0 to 20 increament 1
+create 4 values of random number
+use this values to select the items of 4 different string arrays
+take the article[random number0] into char array and make the char array 1st index uppercase
+then create the article[random number 0] with constructor using char array
+print concatanated article[random number 0]+noun[random number 2]+verb[random number 3]+preposition[random number 0]+article[random number 1]+noun[random number1] 

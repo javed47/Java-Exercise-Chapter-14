@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+E:\Java Chapter Wise Practice\Chapter 14\.metadata\.plugins\org.eclipse.jdt.core
+2765060868.index

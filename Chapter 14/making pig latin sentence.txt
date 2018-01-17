@@ -1,0 +1,27 @@
+class PigLatinPrrint
+main  method()
+make a string sentence
+ask user to give the sentence 
+Instantiate PigLatin
+Systtem out the sentence 
+call piglatin's toString method
+
+class PigLatin
+take a private string sentence
+take a private string pigSentence
+create a constructor with the string mentioned
+
+method makingSentenceIntoPig()
+split sentence into tokens of string array
+make a enhanced for loop to access all the components
+change the string array component into strinBuilder
+take the component and take another character which will hold the first character 
+make the first character to append in the end of the component
+append the ay
+change the first character to null
+append the changed component into pigLatinSentence
+get out of the loop
+
+
+method toString()
+make the pigsentence of tokenized.toString()
